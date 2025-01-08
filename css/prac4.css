@@ -1,0 +1,50 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
+    color: aliceblue;
+    position: fixed;
+    width: 100%;
+}
+button{
+    background-color: #f08804;
+}
+#logo{
+    color: #f08804;
+    font-size: 25px;
+}
+a{
+    margin-right: 200px;
+    text-decoration: none;
+    
+}
+.contentbox{
+    border: 2px,solid,black;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    position: fixed;
+    top: 60px;
+    
+}
+     
+ footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+    
+ }
+h5{
+    position: relative;
+    top: 60px;
+}
+body{
+    background-image: url(scenery\ image.jpg);
+    background-size: cover;
+}

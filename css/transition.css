@@ -1,0 +1,25 @@
+div{
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    border: 2px,solid,black;
+    transition: all 0.5s ease-in-out ;
+   
+    
+
+
+}
+div:hover{
+    background-color: aqua;
+    font-size: 20px;
+    transform: rotate(45deg);
+    transform: scale(1.2);
+    
+}
+div:active{
+    background-color: bisque;
+    font-size: 30px
+}
+body{
+    text-align: center;
+}

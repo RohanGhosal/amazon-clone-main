@@ -1,0 +1,32 @@
+p{
+    color:bisque;
+}
+body{
+    background-color: blueviolet;
+}
+#one{
+    font-size: 55px;
+    text-align: center;
+    border-style: solid;
+    border-width: 10px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+#two{
+    font-size: 30px;
+    color:bisque;
+}
+#three{
+    font-size: 23px;
+    color:bisque;
+}
+#four{
+    line-height: 25px;
+    text-transform: uppercase;
+    background-color: black;
+    width: 750px;
+    border-style: solid;
+    border-width: 20px;
+    border-color: bisque;
+    border-radius: 10px;
+}

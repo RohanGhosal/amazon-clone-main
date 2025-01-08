@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+#one{
+    height: 800px;
+    background-color: blue;
+    border: 2px,solid,black;
+    
+    
+}
+#two{
+    height: 850px;
+    background-color: blueviolet;
+    border: 2px,solid,black;
+}
+h1{
+    text-decoration: underline;
+}
