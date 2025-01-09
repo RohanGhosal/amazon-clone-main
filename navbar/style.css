@@ -215,8 +215,7 @@ ul p{
     align-items: center;
     font-weight: 800;
 }
-body{
-    display: flex;
-    flex-wrap: wrap;
+@media (max-width : 480px){
+    body{}
 }
     
